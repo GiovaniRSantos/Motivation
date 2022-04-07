@@ -3,5 +3,8 @@
     <string name="salutation">Olá</string>
     <string name="phrase">Frase</string>
     <string name="new_phrase">Nova frase</string>
+    <string name="letStart">Vamos começar?</string>
+    <string name="whats_your_name">Qual seu nome?</string>
+    <string name="save">salvar</string>
 
 </resources>
