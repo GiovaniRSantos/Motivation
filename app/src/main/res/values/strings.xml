@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="salutation">Olá</string>
+    <string name="phrase">Frase</string>
+    <string name="new_phrase">Nova frase</string>
+
+</resources>
