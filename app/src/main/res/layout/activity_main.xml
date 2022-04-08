@@ -37,23 +37,23 @@
     </LinearLayout>
 
     <TextView
-        android:id="@+id/salutation"
+        android:id="@+id/text_salutation"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/linear_menu"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp"
-        android:fontFamily="@font/cabin_sketch"
+        android:fontFamily="@font/bree_serif"
         android:text="@string/salutation"
         android:textColor="@color/black"
         android:textSize="18sp" />
 
     <TextView
-        android:id="@+id/phrase"
+        android:id="@+id/text_phrase"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:fontFamily="@font/cabin_sketch"
+        android:fontFamily="@font/bree_serif"
         android:gravity="center"
         android:padding="16dp"
         android:text="@string/phrase"
@@ -63,7 +63,7 @@
     <View
         android:layout_width="128dp"
         android:layout_height="3dp"
-        android:layout_below="@+id/phrase"
+        android:layout_below="@+id/text_phrase"
         android:layout_centerHorizontal="true"
         android:background="@color/dark_purple"
         android:elevation="5dp" />
@@ -75,7 +75,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="23dp"
-        android:fontFamily="@font/cabin_sketch"
+        android:fontFamily="@font/bree_serif"
         android:text="@string/new_phrase" />
 
 </RelativeLayout>

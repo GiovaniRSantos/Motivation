@@ -7,4 +7,6 @@
     <string name="whats_your_name">Qual seu nome?</string>
     <string name="save">salvar</string>
 
+    <string name="validation_mandatory_name">Informe seu nome</string>
+
 </resources>
