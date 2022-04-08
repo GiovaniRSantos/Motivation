@@ -5,9 +5,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
-import com.example.motivation.MotivationConstants
+import com.example.motivation.infra.MotivationConstants
 import com.example.motivation.R
-import com.example.motivation.SecurityPreferences
+import com.example.motivation.infra.SecurityPreferences
 import com.example.motivation.databinding.ActivityUserBinding
 
 class UserActivity : AppCompatActivity(), View.OnClickListener {
